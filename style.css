@@ -1,5 +1,17 @@
 body{
     font-size: 18px;
     font-family: 'Times New Roman', Times, serif;
-    align-content: center;
+    background-color: red;
+    color: black;
+    
+}
+h1{
+    align-self: center;
+    font-size: large;
+}
+
+#panda{
+    width: 200px;
+    float: left;
+    margin: 20px;
 }
